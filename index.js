@@ -12,7 +12,7 @@ const db = await open({
 });
 
 await db.exec(`CREATE TABLE IF NOT EXISTS messages (
-    id INTEGER PRIMARY KRY AUTOINCREMENT,
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
     client_offset TEXT UNIQuie, content TEXT)`);
 
 const app = express();
