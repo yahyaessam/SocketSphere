@@ -9,9 +9,6 @@ Welcome to **SocketSphereChatApp**! This project is a hands-on implementation of
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ---
 
@@ -40,4 +37,4 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/SocketSphereChatApp.git
+   git clone https://github.com/yahyaessam/SocketSphere.git
