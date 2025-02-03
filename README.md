@@ -1,4 +1,4 @@
-# Project Name: SocketPlayground
+# Project Name: SocketSphere
 
 Welcome to **SocketSphereChatApp**! This project is a hands-on implementation of the official [Socket.IO tutorial](https://socket.io/docs/v4/tutorial). It demonstrates real-time communication using Socket.IO, a powerful library for enabling low-latency, bidirectional communication between clients and servers.
 
