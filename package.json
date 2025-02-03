@@ -3,5 +3,8 @@
   "version": "0.0.1",
   "description": "This project demonstrates real-time communication using Socket.IO, a powerful library for enabling low-latency, bidirectional communication between clients and servers.",
   "type": "module",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
 }
