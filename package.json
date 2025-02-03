@@ -1,0 +1,7 @@
+{
+  "name": "socket-sphere-chat-app",
+  "version": "0.0.1",
+  "description": "This project demonstrates real-time communication using Socket.IO, a powerful library for enabling low-latency, bidirectional communication between clients and servers.",
+  "type": "module",
+  "dependencies": {}
+}
